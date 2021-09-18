@@ -1,4 +1,6 @@
 # Circuit Logic Simulator #
+
+![screenshot](./screenshot.png)
 ### Build Instructions ###
 1.	**Install dependencies**
 	-	Qt base: `qt5-base`
